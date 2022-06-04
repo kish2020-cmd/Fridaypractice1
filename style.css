@@ -32,3 +32,14 @@ h2{
     font-size:35px;
     font-family:40px
 }
+ul{
+    background-image:-moz-radial-gradient()
+}
+.img{
+    text-align: center;
+    font-weight: bolder;
+}
+.head{
+    text-align: center;
+    
+}
